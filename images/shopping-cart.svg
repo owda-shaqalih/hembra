@@ -1,0 +1,5 @@
+<svg id="shopping-cart" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <path id="Path_24" data-name="Path 24" d="M.5.5h3l1,9h9l2-6h-9" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <circle id="Ellipse_1" data-name="Ellipse 1" cx="1.5" cy="1.5" r="1.5" transform="translate(3.5 12.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  <circle id="Ellipse_2" data-name="Ellipse 2" cx="1.5" cy="1.5" r="1.5" transform="translate(11.5 12.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+</svg>
